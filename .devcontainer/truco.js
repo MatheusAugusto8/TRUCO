@@ -1,3 +1,4 @@
+// Matheus Augusto 
 // Importando a biblioteca readline-sync
 const readlineSync = require('readline-sync');
 
@@ -107,4 +108,4 @@ if (refvirada==9){
     console.log("Todas as "+forcas[0]+" são fortes .. eita manilha veiia");
 }else{
     console.log("todas as " + forcas[refvirada+1]+" São fortes .. eita manilhada veiaaaaaa uhh hu");
-}
+}  
