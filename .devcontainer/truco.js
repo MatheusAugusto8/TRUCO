@@ -1,4 +1,4 @@
-// Matheus Augusto 
+// Matheus Augusto  
 // Importando a biblioteca readline-sync
 const readlineSync = require('readline-sync');
 
